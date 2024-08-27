@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{b2428da5-f39f-41bc-850e-026aa786ca85}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../Game Project/dhammadipa/Assets/Game/FMODAssets</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{e333fbb4-09ad-41b8-8bb3-f1d6e39cff35}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{984c4838-5b6d-4fa8-b6ad-61515032e763}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{e54db080-2479-4b85-9146-6f164c1bfb58}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{8efe57a1-16df-45cb-8d56-da5d9eee1d2f}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{fc3b77ea-fe08-4f1c-93fb-a34c38c7f652}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{648d17d5-7cc2-48f4-a35a-d42e60eb98dc}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{b69f3b3b-2af8-4906-b440-254b1be2d9d6}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{231908cc-e577-455f-8e7e-e04828ba916d}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{456274fe-f022-4389-8979-aede38da536f}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{b0dca5c1-0769-44fd-b85f-27153eb46dfe}</destination>
+		</relationship>
+	</object>
+</objects>
