@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a548b818-f8cb-4ebb-8e53-e3d9170970c6}">
+		<property name="assetPath">
+			<value>Sfx/Minigame1/leaf get into trash can.WAV</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.18575963718820862</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b69f3b3b-2af8-4906-b440-254b1be2d9d6}</destination>
+		</relationship>
+	</object>
+</objects>
