@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{113ca4f1-4902-4c13-adbc-b81e3e4b40d2}">
+		<property name="name">
+			<value>Minigame Pohon Bodhi</value>
+		</property>
+		<relationship name="folder">
+			<destination>{444a9290-8735-4a7f-9ae3-afcb2868c5ba}</destination>
+		</relationship>
+	</object>
+</objects>

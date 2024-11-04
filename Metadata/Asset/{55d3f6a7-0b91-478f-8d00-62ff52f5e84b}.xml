@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{55d3f6a7-0b91-478f-8d00-62ff52f5e84b}">
+		<property name="assetPath">
+			<value>Sfx/Minigame Pohon Bodhi/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b69f3b3b-2af8-4906-b440-254b1be2d9d6}</destination>
+		</relationship>
+	</object>
+</objects>

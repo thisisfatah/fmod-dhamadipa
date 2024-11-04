@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2f4ec28b-2b9d-4de7-aa8b-ba7bdd66012f}">
+		<property name="assetPath">
+			<value>Sfx/Minigame Dupa/Dupa Terpasang.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.89600000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b69f3b3b-2af8-4906-b440-254b1be2d9d6}</destination>
+		</relationship>
+	</object>
+</objects>
